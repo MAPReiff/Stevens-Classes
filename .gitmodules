@@ -4,3 +4,12 @@
 [submodule "E115-2019F"]
 	path = E115-2019F
 	url = https://github.com/MAPReiff/E115-2019F
+[submodule "CPE390-2021S"]
+	path = CPE390-2021S
+	url = https://github.com/MAPReiff/CPE390-2021S
+[submodule "E232-2021S"]
+	path = E232-2021S
+	url = https://github.com/MAPReiff/E232-2021S
+[submodule "CPE360-2021S"]
+	path = CPE360-2021S
+	url = https://github.com/MAPReiff/CPE360-2021S
