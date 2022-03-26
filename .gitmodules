@@ -1,0 +1,6 @@
+[submodule "E121-2019F"]
+	path = E121-2019F
+	url = https://github.com/MAPReiff/E121-2019F
+[submodule "E115-2019F"]
+	path = E115-2019F
+	url = https://github.com/MAPReiff/E115-2019F
