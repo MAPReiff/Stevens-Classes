@@ -75,3 +75,8 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - General Elective Slot
 - Tech Elective Slot
 - Tech Elective Slot
+
+## Transfer Credits
+
+### CUNY Queens College (3 Credits)
+- HHS 141 - Introduction to Sociology
