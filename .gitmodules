@@ -13,3 +13,21 @@
 [submodule "CPE360-2021S"]
 	path = CPE360-2021S
 	url = https://github.com/MAPReiff/CPE360-2021S
+[submodule "CPE322-2022S"]
+	path = CPE322-2022S
+	url = https://github.com/MAPReiff/CPE322-2022S
+[submodule "CPE345-2022S"]
+	path = CPE345-2022S
+	url = https://github.com/MAPReiff/CPE345-2022S
+[submodule "CPE462-2022S"]
+	path = CPE462-2022S
+	url = https://github.com/MAPReiff/CPE462-2022S
+[submodule "CPE462-PedestrianSystem-2022S"]
+	path = CPE462-PedestrianSystem-2022S
+	url = https://github.com/MAPReiff/CPE462-PedestrianSystem-2022S
+[submodule "CS615-2022S"]
+	path = CS615-2022S
+	url = https://github.com/MAPReiff/CS615-2022S
+[submodule "CS615-CTF-2022S"]
+	path = CS615-CTF-2022S
+	url = https://github.com/MAPReiff/CS615-CTF-2022S
