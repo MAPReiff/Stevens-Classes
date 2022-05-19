@@ -48,8 +48,6 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - E 243 - Probability and Statistics for Engineers
 - E 344 - Materials Processing
 
-## Current
-
 ### Semester 6: Spring 2022 (19 Credits)
 - [CPE 322 - Engineering Design VI](https://github.com/MAPReiff/CPE322-2022S)
 - [CPE 345 - Modeling and Simulation](https://github.com/MAPReiff/CPE345-2022S)
@@ -58,6 +56,10 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - PEP 151 - Introduction to Astronomy
 - [CS 615 - Systems Administration](https://github.com/MAPReiff/CS615-2022S)
 - IDE 400 - Senior Innovation I
+
+## Current
+
+On summer break.
 
 ## Future
 
