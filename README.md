@@ -63,11 +63,10 @@ On summer break.
 
 ## Future
 
-### Semester 7: Fall 2022 (16 Credits)
+### Semester 7: Fall 2022 (13 Credits)
 - CPE 423 - Engineering Design VII
 - CPE 487 - Digital System Design
 - IDE 401 - Senior Innovation II
-- General Elective Slot
 - Tech Elective Slot
 - Tech Elective Slot
 
@@ -82,3 +81,8 @@ On summer break.
 
 ### CUNY Queens College (3 Credits)
 - SOC 101 - General Introduction to Sociology ---> HHS 141 - Introduction to Sociology
+- Used as a Humanity Elective for 8th semester.
+
+### CUNY Baruch College (3 Credits)
+- MSC 1003 - Music in Civilization ---> HMU 101 - Music History I
+- Used as a General Elective for 7th semester.
