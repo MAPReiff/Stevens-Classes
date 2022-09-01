@@ -59,16 +59,14 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 
 ## Current
 
-On summer break.
-
-## Future
-
 ### Semester 7: Fall 2022 (13 Credits)
 - CPE 423 - Engineering Design VII
 - CPE 487 - Digital System Design
 - IDE 401 - Senior Innovation II
-- Tech Elective Slot
-- Tech Elective Slot
+- CPE 551 - Engineering Programming: Python
+- CPE 521 - Introduction to Autonomous Mobile Robots
+
+## Future
 
 ### Semester 8: Spring 2023 (13 Credits)
 - CPE 424 - Senior Design VIII
