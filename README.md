@@ -71,9 +71,9 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 ### Semester 8: Spring 2023 (13 Credits)
 - CPE 424 - Senior Design VIII
 - IDE 402 - Senior Innovation III
-- General Elective Slot
-- Tech Elective Slot
-- Tech Elective Slot
+- CS 546 - Web Programming
+- EE 552 - Engineering Programming: Java
+- EE 553 - Engineering Programming: C++
 
 ## Transfer Credits
 
