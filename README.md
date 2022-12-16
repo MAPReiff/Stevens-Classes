@@ -69,7 +69,7 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 ## Future
 
 ### Semester 8: Spring 2023 (13 Credits)
-- CPE 424 - Senior Design VIII
+- CPE 424 - Engineering Design VIII
 - IDE 402 - Senior Innovation III
 - CS 546 - Web Programming
 - EE 552 - Engineering Programming: Java
