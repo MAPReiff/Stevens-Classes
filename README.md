@@ -57,14 +57,16 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - [CS 615 - Systems Administration](https://github.com/MAPReiff/CS615-2022S)
 - IDE 400 - Senior Innovation I
 
-## Current
-
 ### Semester 7: Fall 2022 (13 Credits)
 - CPE 423 - Engineering Design VII
 - CPE 487 - Digital System Design
 - IDE 401 - Senior Innovation II
 - CPE 551 - Engineering Programming: Python
 - CPE 521 - Introduction to Autonomous Mobile Robots
+
+## Current
+
+On winter break.
 
 ## Future
 
