@@ -47,6 +47,7 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - E 321 - Engineering Design V
 - E 243 - Probability and Statistics for Engineers
 - E 344 - Materials Processing
+- In addition to my classes, I was also working **part time** at [Conair LLC](https://conair.com)
 
 ### Semester 6: Spring 2022 (19 Credits)
 - [CPE 322 - Engineering Design VI](https://github.com/MAPReiff/CPE322-2022S)
@@ -56,6 +57,7 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - PEP 151 - Introduction to Astronomy
 - [CS 615 - Systems Administration](https://github.com/MAPReiff/CS615-2022S)
 - IDE 400 - Senior Innovation I
+- In addition to my classes, I was also working **part time** at [Conair LLC](https://conair.com)
 
 ### Semester 7: Fall 2022 (13 Credits)
 - CPE 423 - Engineering Design VII
@@ -63,6 +65,7 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 - IDE 401 - Senior Innovation II
 - [CPE 551 - Engineering Programming: Python](https://github.com/MAPReiff/CPE551-2022F)
 - [CPE 521 - Introduction to Autonomous Mobile Robots](https://github.com/MAPReiff/CPE521-2022F)
+- In addition to my classes, I was also working **full time** at [Conair LLC](https://conair.com)
 
 ## Current
 
@@ -76,6 +79,7 @@ On winter break.
 - CS 546 - Web Programming
 - EE 552 - Engineering Programming: Java
 - EE 553 - Engineering Programming: C++
+- In addition to my classes, I was also working **full time** at [Conair LLC](https://conair.com)
 
 ## Transfer Credits
 
