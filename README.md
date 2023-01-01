@@ -59,10 +59,10 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 
 ### Semester 7: Fall 2022 (13 Credits)
 - CPE 423 - Engineering Design VII
-- CPE 487 - Digital System Design
+- [CPE 487 - Digital System Design](https://github.com/MAPReiff/CPE487-2022F)
 - IDE 401 - Senior Innovation II
-- CPE 551 - Engineering Programming: Python
-- CPE 521 - Introduction to Autonomous Mobile Robots
+- [CPE 551 - Engineering Programming: Python](https://github.com/MAPReiff/CPE551-2022F)
+- [CPE 521 - Introduction to Autonomous Mobile Robots](https://github.com/MAPReiff/CPE521-2022F)
 
 ## Current
 

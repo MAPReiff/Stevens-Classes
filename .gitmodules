@@ -31,3 +31,12 @@
 [submodule "CS615-CTF-2022S"]
 	path = CS615-CTF-2022S
 	url = https://github.com/MAPReiff/CS615-CTF-2022S
+[submodule "CPE551-2022F"]
+	path = CPE551-2022F
+	url = git@github.com:MAPReiff/CPE551-2022F.git
+[submodule "CPE487-2022F"]
+	path = CPE487-2022F
+	url = git@github.com:MAPReiff/CPE487-2022F.git
+[submodule "CPE521-2022F"]
+	path = CPE521-2022F
+	url = git@github.com:MAPReiff/CPE521-2022F.git
