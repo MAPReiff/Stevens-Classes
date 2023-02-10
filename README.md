@@ -79,10 +79,10 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 
 ## Transfer Credits
 
-### CUNY Queens College (3 Credits)
+### CUNY Queens College: Summer 2020 (3 Credits)
 - SOC 101 - General Introduction to Sociology ---> HHS 141 - Introduction to Sociology
 - Used as a Humanity Elective for 8th semester.
 
-### CUNY Baruch College (3 Credits)
+### CUNY Baruch College: Summer 2022 (3 Credits)
 - MSC 1003 - Music in Civilization ---> HMU 101 - Music History I
 - Used as a General Elective for 7th semester.
