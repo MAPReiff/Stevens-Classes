@@ -69,10 +69,6 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 
 ## Current
 
-On winter break.
-
-## Future
-
 ### Semester 8: Spring 2023 (13 Credits)
 - CPE 424 - Engineering Design VIII
 - IDE 402 - Senior Innovation III
