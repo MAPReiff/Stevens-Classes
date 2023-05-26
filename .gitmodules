@@ -40,3 +40,15 @@
 [submodule "CPE521-2022F"]
 	path = CPE521-2022F
 	url = git@github.com:MAPReiff/CPE521-2022F.git
+[submodule "CS546-2023S"]
+	path = CS546-2023S
+	url = git@github.com:MAPReiff/CS546-2023S.git
+[submodule "EE552-2023S"]
+	path = EE552-2023S
+	url = git@github.com:MAPReiff/EE552-2023S.git
+[submodule "EE553-2023S"]
+	path = EE553-2023S
+	url = git@github.com:MAPReiff/EE553-2023S.git
+[submodule "Tikit"]
+	path = Tikit
+	url = git@github.com:MAPReiff/Tikit.git
