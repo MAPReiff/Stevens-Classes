@@ -72,9 +72,9 @@ This repository serves as a record for all courses I have taken at [Stevens Inst
 ### Semester 8: Spring 2023 (13 Credits)
 - CPE 424 - Engineering Design VIII
 - IDE 402 - Senior Innovation III
-- CS 546 - Web Programming
-- EE 552 - Engineering Programming: Java
-- EE 553 - Engineering Programming: C++
+- [CS 546 - Web Programming](https://github.com/MAPReiff/CS546-2023S)
+- [EE 552 - Engineering Programming: Java](https://github.com/MAPReiff/EE552-2023S)
+- [EE 553 - Engineering Programming: C++](https://github.com/MAPReiff/EE553-2023S)
 - In addition to my classes, I was also working **full time** at [Conair LLC](https://conair.com)
 
 ## Transfer Credits
